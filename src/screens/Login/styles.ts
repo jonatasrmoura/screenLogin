@@ -44,6 +44,7 @@ const styles = StyleSheet.create({
 
     btnForgotPassword: {
         width: 150,
+        alignItems: 'center',
         marginLeft: '60%',
         marginTop: 20,
     },
